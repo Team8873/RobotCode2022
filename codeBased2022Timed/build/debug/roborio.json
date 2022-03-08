@@ -1,0 +1,60 @@
+[
+  {
+    "type": "native",
+    "name": "frcCpp",
+    "port": 8349,
+    "target": "10.88.73.2",
+    "launchfile": "C:\\Users\\Robotics\\Documents\\codeBased2022Timed\\build\\exe\\frcUserProgram\\release\\frcUserProgram",
+    "gdb": "C:\\Users\\Public\\wpilib\\2022\\roborio\\bin\\arm-frc2022-linux-gnueabi-gdb.exe",
+    "sysroot": "C:\\Users\\Public\\wpilib\\2022\\roborio",
+    "srcpaths": [
+      "C:\\Users\\Robotics\\Documents\\codeBased2022Timed\\src\\main\\cpp",
+      "C:\\Users\\Robotics\\Documents\\codeBased2022Timed\\src\\main\\include"
+    ],
+    "headerpaths": [
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\4cccab41a37d793ff70d875b35caa88a\\transformed\\wpilibNewCommands-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\cd9cd2468a386c40b940b609efa55d0a\\transformed\\REVLib-cpp-2022.1.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\53e2ca9e50a8d095e0bed89dcf2f3210\\transformed\\REVLib-driver-2022.1.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\7827a4c298fd698c26361bd5eaa8df46\\transformed\\wpiapi-cpp-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\adb24e96b1309ddfe1a27ce94fa9c37b\\transformed\\api-cpp-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\90ca6fcbc2f5e3135f5650e222f86236\\transformed\\cci-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\1345c4f64926112103d09c8241247fc5\\transformed\\wpiapi-cpp-sim-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\da79af4e5d7dc5e768c8b50fb7ecd953\\transformed\\api-cpp-sim-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\0e4ffaf90f639bd16f48d2ed8a062544\\transformed\\cci-sim-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\80b3b520c406785d31876dc9506f7579\\transformed\\simTalonSRX-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\983b715ed6d73f8ee723237f9148c89b\\transformed\\simTalonFX-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\3a37bf3cbd541047ebfad839d9e3e7fb\\transformed\\simVictorSPX-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\f95d22dbbab41b6565cb72f356b456f6\\transformed\\simPigeonIMU-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\f49b9d06422ddf4af84a61ae86fecea1\\transformed\\simCANCoder-5.20.2-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\e64695786e496e98a98c8f447f61e8fa\\transformed\\navx-cpp-4.0.442-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\b67e108595ab25f47ef827106d790925\\transformed\\wpilibc-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\8c825e32ef0d45396ff4d6b5b4937ed3\\transformed\\ntcore-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\88abfe04a35b3fcd84bd04938d1f33d0\\transformed\\hal-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\5c1c94f97287023fee0f6524873cd253\\transformed\\wpimath-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\69df7e4e2d0aa81d2577a172da97fdae\\transformed\\wpiutil-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\fc3a5549f7273f9b818e7f274a78d986\\transformed\\netcomm-2022.2.3-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\4a9fca9c1d266d5b95618580c10e0e0e\\transformed\\chipobject-2022.2.3-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\229622b710d76f720bbb57836edc0b6c\\transformed\\visa-2022.2.3-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\94c64972d2b2bcd41b5dd78b3e64bb00\\transformed\\cameraserver-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\fa78e87fd47dd645adeeadb32a79fd94\\transformed\\cscore-cpp-2022.2.1-headers",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\0010e3dd4a581fe91f56df7d2c1bbbd0\\transformed\\opencv-cpp-4.5.2-1-headers",
+      "C:\\Users\\Robotics\\Documents\\codeBased2022Timed\\src\\main\\include"
+    ],
+    "libpaths": [
+      "C:\\Users\\Robotics\\Documents\\codeBased2022Timed\\build\\install\\frcUserProgram\\release\\lib",
+      "C:\\Users\\Robotics\\Documents\\codeBased2022Timed\\build\\install\\frcUserProgram\\release"
+    ],
+    "libsrcpaths": [
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\306f8c2c389f9ecc2eaba9c046d3aa3c\\transformed\\wpilibNewCommands-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\06df6bf9ff46f765f779496e5aa5d9dd\\transformed\\navx-cpp-4.0.442-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\9a3970ad6f3101606c4d45d9ee511f43\\transformed\\wpilibc-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\d44a421b72fb35442b058e2d9110b30d\\transformed\\ntcore-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\c5ad0d1b3cc3f103fe679215d7ffffd5\\transformed\\hal-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\158e7fa35d6bf65a2363f6fafb7c7afb\\transformed\\wpimath-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\742006cb5386cac9e8e38ec31957a11c\\transformed\\wpiutil-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\b13246a18a43a394703e9d4656e19404\\transformed\\cameraserver-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\c2d91d0831e7532f44a95b5fa7985baa\\transformed\\cscore-cpp-2022.2.1-sources",
+      "C:\\Users\\Robotics\\.gradle\\caches\\transforms-3\\cf5140d6c7ac5d89a714ad04d846a876\\transformed\\opencv-cpp-4.5.2-1-sources"
+    ]
+  }
+]
